@@ -33,6 +33,7 @@ Available commands are:
 cleanup     Clean up dependencies and testing resource
 credscan    Scan the credential in given Terraform configuration
 generate    Generate testing files including terraform configuration for dependencies and testing resource.
+report      Generate test report for a set of test results
 test        Update dependencies for tests and run tests
 validate    Generates a speculative execution plan, showing what actions Terraform would take to apply the current configuration
 ```
