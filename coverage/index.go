@@ -18,7 +18,7 @@ import (
 )
 
 const (
-	indexFileURL = "https://raw.githubusercontent.com/teowa/azure-rest-api-index-file/main/index.json.zip"
+	indexFileURL = "https://github.com/teowa/azure-rest-api-index-file/releases/latest/download/index.json.zip"
 	azureRepoURL = "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/"
 )
 
