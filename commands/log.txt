@@ -1,0 +1,128 @@
+2026-07-29T05:20:38.206Z [INFO]  Terraform version: 1.15.6
+2026-07-29T05:20:38.206Z [DEBUG] using github.com/hashicorp/go-tfe v1.105.0
+2026-07-29T05:20:38.206Z [DEBUG] using github.com/hashicorp/hcl/v2 v2.24.0
+2026-07-29T05:20:38.206Z [DEBUG] using github.com/hashicorp/terraform-svchost v0.2.1
+2026-07-29T05:20:38.206Z [DEBUG] using github.com/zclconf/go-cty v1.18.0
+2026-07-29T05:20:38.206Z [INFO]  Go runtime version: go1.25.10
+2026-07-29T05:20:38.206Z [INFO]  CLI args: []string{"/home/linuxbrew/.linuxbrew/bin/terraform", "version", "-json"}
+2026-07-29T05:20:38.206Z [TRACE] Stdout is not a terminal
+2026-07-29T05:20:38.206Z [TRACE] Stderr is not a terminal
+2026-07-29T05:20:38.206Z [TRACE] Stdin is not a terminal
+2026-07-29T05:20:38.206Z [DEBUG] Attempting to open CLI config file: /home/wangta/.terraformrc
+2026-07-29T05:20:38.206Z [INFO]  Loading CLI configuration from /home/wangta/.terraformrc
+2026-07-29T05:20:38.206Z [DEBUG] Using modified User-Agent: HashiCorp Terraform/1.15.6 (+https://www.terraform.io) HashiCorp-terraform-exec/0.15.0
+2026-07-29T05:20:38.206Z [DEBUG] Explicit provider installation configuration is set
+2026-07-29T05:20:38.206Z [TRACE] Selected provider installation method cliconfig.ProviderInstallationDirect with includes [] and excludes []
+2026-07-29T05:20:38.207Z [INFO]  CLI command args: []string{"version", "-json"}
+2026-07-29T05:20:38.273Z [INFO]  Terraform version: 1.15.6
+2026-07-29T05:20:38.274Z [DEBUG] using github.com/hashicorp/go-tfe v1.105.0
+2026-07-29T05:20:38.274Z [DEBUG] using github.com/hashicorp/hcl/v2 v2.24.0
+2026-07-29T05:20:38.274Z [DEBUG] using github.com/hashicorp/terraform-svchost v0.2.1
+2026-07-29T05:20:38.274Z [DEBUG] using github.com/zclconf/go-cty v1.18.0
+2026-07-29T05:20:38.274Z [INFO]  Go runtime version: go1.25.10
+2026-07-29T05:20:38.274Z [INFO]  CLI args: []string{"/home/linuxbrew/.linuxbrew/bin/terraform", "init", "-no-color", "-force-copy", "-input=false", "-backend=true", "-get=true", "-upgrade=false"}
+2026-07-29T05:20:38.274Z [TRACE] Stdout is not a terminal
+2026-07-29T05:20:38.274Z [TRACE] Stderr is not a terminal
+2026-07-29T05:20:38.274Z [TRACE] Stdin is not a terminal
+2026-07-29T05:20:38.274Z [DEBUG] Attempting to open CLI config file: /home/wangta/.terraformrc
+2026-07-29T05:20:38.274Z [INFO]  Loading CLI configuration from /home/wangta/.terraformrc
+2026-07-29T05:20:38.274Z [DEBUG] Using modified User-Agent: HashiCorp Terraform/1.15.6 (+https://www.terraform.io) HashiCorp-terraform-exec/0.15.0
+2026-07-29T05:20:38.274Z [DEBUG] Explicit provider installation configuration is set
+2026-07-29T05:20:38.274Z [TRACE] Selected provider installation method cliconfig.ProviderInstallationDirect with includes [] and excludes []
+2026-07-29T05:20:38.275Z [INFO]  CLI command args: []string{"init", "-no-color", "-force-copy", "-input=false", "-backend=true", "-get=true", "-upgrade=false"}
+2026-07-29T05:20:38.276Z [DEBUG] Using modified User-Agent: Terraform/1.15.6 HashiCorp-terraform-exec/0.15.0
+2026-07-29T05:20:38.276Z [DEBUG] Using modified User-Agent: HashiCorp Terraform/1.15.6 (+https://www.terraform.io) HashiCorp-terraform-exec/0.15.0
+2026-07-29T05:20:38.355Z [INFO]  Terraform version: 1.15.6
+2026-07-29T05:20:38.355Z [DEBUG] using github.com/hashicorp/go-tfe v1.105.0
+2026-07-29T05:20:38.355Z [DEBUG] using github.com/hashicorp/hcl/v2 v2.24.0
+2026-07-29T05:20:38.355Z [DEBUG] using github.com/hashicorp/terraform-svchost v0.2.1
+2026-07-29T05:20:38.355Z [DEBUG] using github.com/zclconf/go-cty v1.18.0
+2026-07-29T05:20:38.355Z [INFO]  Go runtime version: go1.25.10
+2026-07-29T05:20:38.355Z [INFO]  CLI args: []string{"/home/linuxbrew/.linuxbrew/bin/terraform", "validate", "-no-color", "-json"}
+2026-07-29T05:20:38.355Z [TRACE] Stdout is not a terminal
+2026-07-29T05:20:38.355Z [TRACE] Stderr is not a terminal
+2026-07-29T05:20:38.355Z [TRACE] Stdin is not a terminal
+2026-07-29T05:20:38.355Z [DEBUG] Attempting to open CLI config file: /home/wangta/.terraformrc
+2026-07-29T05:20:38.355Z [INFO]  Loading CLI configuration from /home/wangta/.terraformrc
+2026-07-29T05:20:38.355Z [DEBUG] Using modified User-Agent: HashiCorp Terraform/1.15.6 (+https://www.terraform.io) HashiCorp-terraform-exec/0.15.0
+2026-07-29T05:20:38.355Z [DEBUG] Explicit provider installation configuration is set
+2026-07-29T05:20:38.355Z [TRACE] Selected provider installation method cliconfig.ProviderInstallationDirect with includes [] and excludes []
+2026-07-29T05:20:38.356Z [INFO]  CLI command args: []string{"validate", "-no-color", "-json"}
+2026-07-29T05:20:38.356Z [DEBUG] Using modified User-Agent: Terraform/1.15.6 HashiCorp-terraform-exec/0.15.0
+2026-07-29T05:20:38.357Z [DEBUG] Using modified User-Agent: HashiCorp Terraform/1.15.6 (+https://www.terraform.io) HashiCorp-terraform-exec/0.15.0
+2026-07-29T05:20:38.357Z [TRACE] terraform.NewContext: starting
+2026-07-29T05:20:38.357Z [TRACE] terraform.NewContext: complete
+2026-07-29T05:20:38.357Z [TRACE] building graph for terraform dependencies
+2026-07-29T05:20:38.357Z [TRACE] Executing graph transform *terraform.RootVariableTransformer
+2026-07-29T05:20:38.357Z [TRACE] Executing graph transform *terraform.ModuleTransformer
+2026-07-29T05:20:38.357Z [TRACE] Executing graph transform *terraform.LocalTransformer
+2026-07-29T05:20:38.357Z [TRACE] Executing graph transform *terraform.ReferenceTransformer
+2026-07-29T05:20:38.357Z [TRACE] Executing graph transform *terraform.TransformFilter
+2026-07-29T05:20:38.357Z [TRACE] Executing graph transform *terraform.variableValidationTransformer
+2026-07-29T05:20:38.357Z [TRACE] variableValidationTransformer: adding validation nodes for any existing variable evaluation nodes
+2026-07-29T05:20:38.357Z [TRACE] Executing graph transform *terraform.RootTransformer
+2026-07-29T05:20:38.357Z [TRACE] Executing graph transform *terraform.TransitiveReductionTransformer
+2026-07-29T05:20:38.357Z [TRACE] Completed graph transform:
+root - terraform.graphNodeRoot
+  ------
+2026-07-29T05:20:38.357Z [DEBUG] Starting graph walk: walkInit
+2026-07-29T05:20:38.357Z [TRACE] vertex "root": starting visit (terraform.graphNodeRoot)
+2026-07-29T05:20:38.358Z [TRACE] vertex "root": does not belong to any module instance
+2026-07-29T05:20:38.358Z [TRACE] vertex "root": visit complete
+2026-07-29T05:20:38.358Z [DEBUG] checking for provisioner in "."
+2026-07-29T05:20:38.358Z [DEBUG] checking for provisioner in "/home/linuxbrew/.linuxbrew/Cellar/terraform/1.15.6/bin"
+2026-07-29T05:20:38.358Z [TRACE] terraform.NewContext: starting
+2026-07-29T05:20:38.358Z [TRACE] terraform.NewContext: complete
+2026-07-29T05:20:38.358Z [DEBUG] Building and walking validate graph
+2026-07-29T05:20:38.358Z [TRACE] building graph for walkValidate
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ConfigTransformer
+2026-07-29T05:20:38.358Z [TRACE] ConfigTransformer: Starting for path:
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ActionTriggerConfigTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ActionInvokePlanTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.RootVariableTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ModuleVariableTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.variableValidationTransformer
+2026-07-29T05:20:38.358Z [TRACE] variableValidationTransformer: adding validation nodes for any existing variable evaluation nodes
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.LocalTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.OutputTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.checkTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.OrphanResourceInstanceTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.StateTransformer
+2026-07-29T05:20:38.358Z [TRACE] StateTransformer: pointless no-op call, creating no nodes at all
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.AttachStateTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.OrphanOutputTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.AttachResourceConfigTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.graphTransformerMulti
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Executing graph transform *terraform.externalProviderTransformer
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Completed graph transform *terraform.externalProviderTransformer (no changes)
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Executing graph transform *terraform.ProviderConfigTransformer
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Completed graph transform *terraform.ProviderConfigTransformer (no changes)
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Executing graph transform *terraform.MissingProviderTransformer
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Completed graph transform *terraform.MissingProviderTransformer (no changes)
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Executing graph transform *terraform.ProviderTransformer
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Completed graph transform *terraform.ProviderTransformer (no changes)
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Executing graph transform *terraform.PruneProviderTransformer
+2026-07-29T05:20:38.358Z [TRACE] (graphTransformerMulti) Completed graph transform *terraform.PruneProviderTransformer (no changes)
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.RemovedModuleTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.AttachSchemaTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ModuleExpansionTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ExternalReferenceTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ReferenceTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.AttachDependenciesTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.attachDataResourceDependsOnTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.DestroyEdgeTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.pruneUnusedNodesTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.TargetsTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.QueryTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ForcedCBDTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.ephemeralResourceCloseTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.CloseProviderTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.CloseRootModuleTransformer
+2026-07-29T05:20:38.358Z [TRACE] Executing graph transform *terraform.TransitiveReductionTransformer
+2026-07-29T05:20:38.358Z [TRACE] Completed graph transform:
+root - *terraform.nodeCloseModule
+  ------
+2026-07-29T05:20:38.358Z [DEBUG] Starting graph walk: walkValidate
+2026-07-29T05:20:38.358Z [TRACE] vertex "root": starting visit (*terraform.nodeCloseModule)
+2026-07-29T05:20:38.358Z [TRACE] vertex "root": does not belong to any module instance
+2026-07-29T05:20:38.359Z [TRACE] vertex "root": visit complete
